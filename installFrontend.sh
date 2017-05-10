@@ -16,6 +16,6 @@ sudo cp -a $HOME/Packages/Unzip/FE/. /var/www/html/
 
 echo -e "\n"
 
-rm -r $HOME/Packages/frontend/Unzip
+rm -r $HOME/Packages/Unzip
 
 echo "Frontend Package is sucessfully installed!"
